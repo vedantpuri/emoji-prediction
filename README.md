@@ -1,4 +1,4 @@
-# README #
+# Emoji Prediction #
 ### About
 This is the repository for our NLP(CS-585) semester project at UMass Amherst. Our task is to suggest emojis based on a given tweet. This project is pertains to the top 20 emojis provided to us by SemEval 2018. The dataset that we used was also provided to us by SemEval. We apply several models in our task which have been briefly described below.
  
