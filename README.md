@@ -1,9 +1,9 @@
-# ![logo](subsidaries/heading.png)
+![logo](subsidaries/heading.png)
 
-![PyPI - Status](https://img.shields.io/pypi/status/Django.svg?style-for-the-badge) ![Github file size](https://img.shields.io/github/repo-size/badges/shields.svg?style-for-the-badge)
+![Status](https://img.shields.io/pypi/status/Django.svg?style=for-the-badge) ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/vedantpuri/emoji-prediction.svg?style=for-the-badge)
 
 ## About
-In today’s world where short messages and tweets are at the core of communication, emojis have become major forms of expression of ideas and emotions. Emojis penetrate language barriers and allow people to express a lot with very few words. With the increasing use of emojis in our daily life, sometimes we lose context of text and aren’t really sure about which emoji to use based on the text. Our project aims to suggest emojis based on the given text by analyzing the sentiment of the given text and​ ​predicting​ ​relevant​ ​emojis​ ​for​ ​it.
+In today’s world where short messages and tweets are at the core of communication, emojis have become major forms of expression of ideas and emotions. Emojis penetrate language barriers and allow people to express a lot with very few words. With the increasing use of emojis in our daily life, sometimes we lose context of text and aren’t really sure about which emoji to use based on the text. Our project aims to suggest emojis based on the given text by analyzing the sentiment of the given text and predicting relevant emojis for it.
 
 ## Requirements
  - Python >= 3
