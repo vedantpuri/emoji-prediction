@@ -8,8 +8,8 @@ In today’s world where short messages and tweets are at the core of communicat
 ## Requirements
  - Python >= 3
  - NLTK >= 3.2.3
- - TensorFlow
- - Word Embeddings -> Download [here](https://drive.google.com/open?id=0B13VF_-CUsHPN0dveFZBODlUU00) and place them in the src folder
+ - Keras >= 2.0.7
+ - Word Embeddings  ([Download](https://drive.google.com/open?id=0B13VF_-CUsHPN0dveFZBODlUU00) and place them in the src folder)
 
 ## Methods Employed
  - Naive Bayes Classifier
