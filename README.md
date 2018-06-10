@@ -21,4 +21,4 @@ In today’s world where short messages and tweets are at the core of communicat
 For information on running the project and further knowledge of the implementation, strategies and accuracies received, please refer to the [UNDERSTANDING.md](https://github.com/vedantpuri/emoji-prediction/blob/master/UNDERSTANDING.md) file.
 
 ## License
-The project is available under the MIT License. Check the license file for more information.
+The project is available under the MIT License. Check the [license file](https://github.com/vedantpuri/emoji-prediction/blob/master/LICENSE.md) for more information.
