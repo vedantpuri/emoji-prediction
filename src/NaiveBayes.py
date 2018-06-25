@@ -1,7 +1,6 @@
 from collections import defaultdict
 import math
 from DataReader import DataReader
-import file_paths
 
 
 class NaiveBayes:
@@ -101,10 +100,7 @@ class NaiveBayes:
                 argmax_unnormalized = label
         return argmax_unnormalized
 
-
-
-    ## Running classifier on the test set.
-
+    # Running classifier on the test set.
     def evaluate_classifier_accuracy(self):
         correct = 0.0
         total = 0.0
@@ -120,9 +116,3 @@ class NaiveBayes:
             total += 1.0
 
         return 100 * (correct / total)
-
-
-
-nb = NaiveBayes(file_paths.us_tweets_path, file_paths.us_labels_path)
-nb.update_model()
-print(nb.evaluate_classifier_accuracy())
